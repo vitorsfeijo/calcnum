@@ -1,4 +1,6 @@
-# README
+# This is a repo for the discipline of numerical calculus
+
+## This will serve as a place to keep methods learned in this class
 
 ### How to create venv
 
